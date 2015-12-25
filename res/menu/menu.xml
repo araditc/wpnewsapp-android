@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.arad_itc.newsit.Main" >
+
+    <item
+        android:id="@+id/action_fav"
+        android:orderInCategory="100"
+        android:title="علاقه مندی ها"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="درباره برنامه"/>
+    <item
+        android:id="@+id/action_change"
+        android:orderInCategory="100"
+        android:title="تعویض کانال خبری"/>
+
+</menu>
